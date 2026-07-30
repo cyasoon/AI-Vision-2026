@@ -1,3 +1,7 @@
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/362c3693-e118-44bb-9939-3752fd819735" />
+
+
 TUGASAN - BINA 3 GAME MENGGUNAKAN CHATGPT SAHAJA
 <img width="1562" height="1172" alt="image" src="https://github.com/user-attachments/assets/c9b575a1-ef7a-407d-a526-7d637c465379" />
 GAME LINKS:
