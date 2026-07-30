@@ -1,6 +1,13 @@
-
+# TUGASAN #
+# 23 JULAI 2026 #
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/362c3693-e118-44bb-9939-3752fd819735" />
+## REFLEKSI ## 
+Hari ini saya belajar tentang: Bagaimana pembantu pengekodan AI boleh digunakan untuk menjana serta membandingkan struktur kod Python.
+Perkara yang saya paling faham ialah: Kaedah membina program pengiraan BMI dalam Python dan menilai perbezaan kualiti serta gaya penulisan kod antara platform AI.
 
+Perkara yang saya masih kurang faham ialah: Teknik menyerapkan fungsi peringkat lanjutan seperti semakan input, exception handling, dan pengurusan ralat yang lebih mendalam.
+
+Saya akan meningkatkan pemahaman dengan: Memperbanyakkan latihan praktikal Python, bereksperimen dengan pelbagai variasi prompt, serta menganalisis fungsi setiap baris kod yang dijana secara terperinci.
 
 TUGASAN - BINA 3 GAME MENGGUNAKAN CHATGPT SAHAJA
 <img width="1562" height="1172" alt="image" src="https://github.com/user-attachments/assets/c9b575a1-ef7a-407d-a526-7d637c465379" />
